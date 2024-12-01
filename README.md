@@ -1,8 +1,3 @@
-Here’s a sample Markdown (`.md`) file for Python e-content on **Conditionals**:
-
----
-
-```markdown
 # Python Conditionals: A Beginner's Guide  
 
 Conditionals in Python allow you to execute certain blocks of code based on specific conditions. They are implemented using statements like `if`, `elif`, and `else`.
