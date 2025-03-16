@@ -1,6 +1,3 @@
-Here's your updated portfolio content, incorporating the **team-focused approach** and mentioning that **ViBe is a work in progress**:  
-
----
 
 # **Meenakshi V**  
 **Research Scholar, IIT Ropar | Curriculum Scientist | AI & Education Researcher**  
