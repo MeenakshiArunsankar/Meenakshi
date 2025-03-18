@@ -1,5 +1,5 @@
 
-# **Meenakshi V**  
+
 **Research Scholar, IIT Ropar | Curriculum Scientist | AI & Education Researcher**  
 
 ## **About Me**  
