@@ -1,6 +1,6 @@
 
 
-**Research Scholar, IIT Ropar | Curriculum Scientist | AI & Education Researcher**  
+###**Research Scholar, IIT Ropar | Curriculum Scientist | AI & Education Researcher**  
 
 ## **About Me**  
 I am a research scholar at **IIT Ropar** under **Prof. Sudarshan Iyengar**, specializing in **Student engagement, Collective Intelligence, and Gaze Analysis**. With **14 years of teaching experience**, I am passionate about **AI-driven education** and designing **interactive learning environments**.  
