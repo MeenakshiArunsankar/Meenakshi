@@ -28,10 +28,10 @@ At **DLED, we** are developing **ViBe (Vision-Based Engagement)**—an **AI-driv
 
 We believe that **education is an evolving space**, and **ViBe** is an ongoing effort to create **smarter, more interactive, and adaptive learning environments**. As we continue to iterate and develop, we welcome insights and collaborations to refine our approach.  
 
-🔗[Check out our Website here](https://sudarshansudarshan.github.io/dled/)
+🔗[![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-00A2D1?style=flat&logo=globe)](https://sudarshansudarshan.github.io/dled/)
 
 ## **Get in Touch**  
 📧 **Email**: jasmeenakshi@gmail.com  
-🔗 [**LinkedIn**:](https://www.linkedin.com/in/meenakshi-v-25aa7691/)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9C%94-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/meenakshi-v-25aa7691/)
 
 ---
